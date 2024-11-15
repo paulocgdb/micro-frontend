@@ -1,2 +1,2 @@
 # micro-frontend
-Trying Module Federation
+Trying Module Federation and another features
